@@ -4,8 +4,11 @@
  *--------------------------------------------------------------------------------------------*/
 
 //@ts-check
-'use strict';
+'use strict'
 
+//new update
+
+//updated by adriana
 // Setup current working directory in all our node & electron processes
 // - Windows: call `process.chdir()` to always set application folder as cwd
 // -  all OS: store the `process.cwd()` inside `VSCODE_CWD` for consistent lookups
